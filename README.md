@@ -15,12 +15,7 @@
 
 <h1># Sales Interface Features</h1>
 
-<style>
-    h1 {
-        text-decoration: none; /* Removes underline */
-        border-bottom: none; /* Removes any border */
-    }
-</style>
+
 
 
 <div class="image-container">
